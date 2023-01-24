@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcodotio&label=Profile%20views&color=0e75b6&style=flat" alt="marcodotio" /> </p>
 
-<p align="left"> <a href="https://twitter.com/marcodotio" target="blank"><img src="https://img.shields.io/twitter/follow/marcodotio?logo=twitter&style=for-the-badge" alt="marcodotio" /></a> </p>
-
 - 🔭 I’m currently working on [OpenAIKit](https://github.com/MarcoDotIO/OpenAIKit)
 
 - 🌱 I’m currently learning **Swift Packages, watchOS and tvOS Development, and a ton of other Apple frameworks.**
