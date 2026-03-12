@@ -73,14 +73,10 @@
 <h3 align="left">GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://githubreadmestatsfast.vercel.app/api?username=marcodotio&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=marcodotio&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" width="48%" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=marcodotio&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=marcodotio&theme=radical&no-frame=true&no-bg=true&column=7" alt="Trophies" />
 </p>
