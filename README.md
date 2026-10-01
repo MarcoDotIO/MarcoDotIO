@@ -1,82 +1,77 @@
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=marcodotio&style=flat-square&color=blueviolet)
-
-</div>
-
-<h1 align="center">Hi 👋, I'm MarcoDotIO</h1>
-<h3 align="center">iOS / Swift developer · Blockchain & Web3 · Robotics & AI</h3>
+<h1 align="center">Hi, I'm MarcoDotIO 👋</h1>
 
 <p align="center">
-  <strong>Lead Senior Engineer</strong> @ OpenDive · <strong>PhD Researcher</strong> in Telerobotics & HRI @ Kent State
-</p>
-
----
-
-### 🔭 Current Projects
-
-| Project | Description |
-|---------|-------------|
-| [**OpenAIKit**](https://github.com/OpenDive/OpenAIKit) | Swift Package for OpenAI's REST API — generative text, images, video, audio. Swift 6.2 concurrency, full Apple platform support |
-| [**SuiKit**](https://github.com/OpenDive/SuiKit) | Swift SDK for Sui blockchain — offline tx building, RPC/GraphQL, Move calls, object management |
-| [**Sui-Unity-SDK**](https://github.com/OpenDive/Sui-Unity-SDK) | Unity SDK for Sui — BCS, ED25519/SECP256K1/zk-Login, full test coverage |
-| [**OpenClawKit**](https://github.com/MarcoDotIO/OpenClawKit) | Swift package for OpenClaw-style AI agent workflows in native Swift apps |
-| [**Pepper-Kit**](https://github.com/ATR-Lab/PepperLLMDemo) | LLM framework retrofitting SoftBank Pepper with modern AI via LiveKit Agents & MCP |
-
-### 🌱 Learning
-
-**Swift Packages**, watchOS, tvOS, visionOS · **Apple frameworks** · Move & Sui ecosystem · **LLM/Foundation models** · MCP
-
-### 🏆 Highlights
-
-- **2025** Sui Overflow — 1st place, Explorations
-- **2024** ETH Denver — Best Solana Social Application
-- **2023** ETH New York — 1st place, WalletConnect "Best for Mobile"
-- Published research in **HRI**, **Child-Robot Interaction**, **Environmental Education**
-
----
-
-<h3 align="left">Connect</h3>
-<p align="left">
-  <a href="https://x.com/marcodotio" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/X-@marcodotio-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://linkedin.com/in/marcus-a-arnett" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.youtube.com/c/marcodotio" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-</p>
-
----
-
-<h3 align="left">Languages & Tools</h3>
-<p align="left">
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></a>
-  <a href="https://developer.apple.com/xcode/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40"/></a>
-  <a href="https://unity.com/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/></a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/></a>
-  <a href="https://graphql.org" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noopener"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></a>
-</p>
-
----
-
-<h3 align="left">GitHub Stats</h3>
-
-<p align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats" width="48%" />
-  <img src="./profile/top-langs.svg" alt="Top Languages" width="48%" />
+  <strong>Swift &amp; Apple platforms · AI agents · Robotics &amp; HRI</strong>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=marcodotio&theme=radical&hide_border=true" alt="GitHub Streak" />
+  Lead Senior Engineer @ <a href="https://github.com/OpenDive">OpenDive</a> · PhD Researcher in Telerobotics &amp; HRI @ Kent State
+</p>
+
+<p align="center">
+  <a href="https://x.com/marcodotio">X / @marcodotio</a> ·
+  <a href="https://www.linkedin.com/in/marcus-a-arnett/">LinkedIn</a> ·
+  <a href="https://www.youtube.com/c/marcodotio">YouTube</a>
+</p>
+
+---
+
+I build Swift SDKs, AI agent tooling, and robotics software. My work connects native Apple apps, language models, and human–robot interaction.
+
+- **Native AI:** Swift packages, Foundation Models, streaming, structured output, and tool calling.
+- **Robotics research:** telerobotics, shared autonomy, and how people communicate intent to robots.
+- **Developer tools:** reproducible ROS 2 environments and MCP integrations for research workflows.
+
+### Selected work
+
+| Project | What I'm building |
+| --- | --- |
+| [**OpenClawKit**](https://github.com/MarcoDotIO/OpenClawKit) | Swift SDK for AI agents, gateways, channels, and MCP integrations. |
+| [**OpenAIKit**](https://github.com/OpenDive/OpenAIKit) | Community-maintained Swift SDK for the OpenAI API. |
+| [**GrokLanguageModel**](https://github.com/MarcoDotIO/GrokLanguageModel) | Grok through Apple's Foundation Models APIs, with streaming, structured output, and tools. |
+| [**rosenv**](https://github.com/MarcoDotIO/rosenv) | ROS 2 project and dependency management with persistent Docker environments and lockfiles. |
+| [**PepperKit**](https://github.com/ATR-Lab/PepperKit) | Pepper robot stack combining a QiSDK Android client with an OpenAI Realtime backend. |
+| [**overleaf-latex**](https://github.com/MarcoDotIO/overleaf-latex) | MCP tools to create, edit, and compile LaTeX projects in Overleaf. |
+| [**SuiKit**](https://github.com/OpenDive/SuiKit) | Swift SDK for Sui: transaction building, signing, and object management. |
+| [**Sui-Unity-SDK**](https://github.com/OpenDive/Sui-Unity-SDK) | C# SDK for Sui-powered Unity games, with local transaction building and zkLogin. |
+
+### Highlights
+
+- **2025 · Sui Overflow:** 1st place, Explorations.
+- **2024 · ETH Denver:** Best Solana Social Application.
+- **2023 · ETH New York:** 1st place, WalletConnect “Best for Mobile.”
+- Published research in **human–robot interaction**, **child–robot interaction**, and **environmental education**.
+
+### Languages & tools
+
+<p>
+  <a href="https://www.swift.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/swift/swift-original.svg" alt="Swift" width="40" height="40" /></a>
+  <a href="https://developer.apple.com/xcode/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40" /></a>
+  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg" alt="Python" width="40" height="40" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /></a>
+  <a href="https://www.rust-lang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/rust/rust-original.svg" alt="Rust" width="40" height="40" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" /></a>
+  <a href="https://kotlinlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40" /></a>
+  <a href="https://unity.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/unity/unity-original.svg" alt="Unity" width="40" height="40" /></a>
+  <a href="https://www.ros.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/ros/ros-original.svg" alt="ROS" width="40" height="40" /></a>
+  <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" /></a>
+  <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/git/git-original.svg" alt="Git" width="40" height="40" /></a>
+</p>
+
+Swift / SwiftUI · Python · TypeScript / JavaScript · Rust · C# / Unity · Kotlin · ROS 2 · Docker · Git
+
+### GitHub activity
+
+<!-- Cards are generated daily and committed by .github/workflows/update-readme-stats.yml. -->
+<p align="center">
+  <a href="https://github.com/MarcoDotIO?tab=repositories"><img src="./profile/stats.svg" alt="MarcoDotIO's GitHub activity statistics" width="400" /></a>
+  <a href="https://github.com/MarcoDotIO?tab=repositories"><img src="./profile/top-langs.svg" alt="Languages by code size across public repositories" width="400" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MarcoDotIO?tab=overview"><img src="https://streak-stats.demolab.com/?user=marcodotio&amp;theme=radical&amp;hide_border=true" alt="MarcoDotIO's GitHub contribution streak" width="600" /></a>
+</p>
+
+<p align="center">
+  <sub>Language statistics reflect repository code size, not proficiency. <a href="https://github.com/MarcoDotIO/MarcoDotIO/actions/workflows/update-readme-stats.yml">Card refresh status</a></sub>
 </p>
