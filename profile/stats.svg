@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">MarcoDotIO&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 42, Total Commits  (last year) : 1029, Total PRs: 180, Total Issues: 414, Contributed to (last year): 26</desc>
+        <desc id="descId">Total Stars Earned: 42, Total Commits  (last year) : 1030, Total PRs: 221, Total Issues: 414, Contributed to (last year): 26</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 56.91805217865872;
+        stroke-dashoffset: 54.66479780540544;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >180</text>
+      >221</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
