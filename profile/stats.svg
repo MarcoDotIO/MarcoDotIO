@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">MarcoDotIO&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 62, Total Commits  (last year) : 1895, Total PRs: 470, Total Issues: 520, Contributed to (last year): 34</desc>
+        <desc id="descId">Total Stars Earned: 62, Total Commits  (last year) : 1896, Total PRs: 470, Total Issues: 520, Contributed to (last year): 34</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 41.377367386521996;
+        stroke-dashoffset: 41.37676125792606;
       }
     }
   
